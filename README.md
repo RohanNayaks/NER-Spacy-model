@@ -9,4 +9,4 @@ This code conatins three parts
 
 - Spacy model
 
-- Feel free to make changes and play with the code, i have commneted few things please look into it.
+Feel free to make changes and play with the code, i have commented few things please look into it.
